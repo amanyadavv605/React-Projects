@@ -11,12 +11,10 @@
 }
 
 .button-container {
-    height: 10vh;
-    width: 40%; 
     display: flex;
-    flex-wrap: wrap;
+    height: 10vh;
     gap: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .button-container a {
